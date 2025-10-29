@@ -12,7 +12,7 @@ The combined dataset includes the following columns:
 | Column | Description |
 |--------|-------------|
 | Age | Patient's age |
-| sex Patient's gender |
+| sex Patient's gender | gender |
 | Cp | CP level of the patient
 | Trestbps | Resting blood pressure |
 | Chol | Cholesterol level
